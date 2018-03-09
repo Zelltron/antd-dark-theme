@@ -1,3 +1,9 @@
 @import url(~antd/dist/antd.css);
-.logo {
-  height: 2em; }
+.App {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  position: absolute; }
+
+.navbar {
+  height: 100%; }
